@@ -1,5 +1,6 @@
 ## THEME/PROBLEM STATEMENT
 **Theme** : Gamify
+
 Myntra is one of the best E-tail players to popularize online shopping in a huge market like India.
 The present interface of the app has a commonly used profile and cart system that has non-interactive style and elements. To make the process of checking your cart and Wishlist engaging, we here serve the idea of gamifying the platform to attract traffic on site . 
 
