@@ -5,7 +5,10 @@ Myntra is one of the best E-tail players to popularize online shopping in a huge
 The present interface of the app has a commonly used profile and cart system that has non-interactive style and elements. To make the process of checking your cart and Wishlist engaging, we here serve the idea of gamifying the platform to attract traffic on site . 
 
 
-## What it does
+## SOLUTION:
+ MY NOODLIN’ SPACE 
+![image](![image](https://user-images.githubusercontent.com/65819611/140659742-d5d3e071-5b0f-4165-bdce-8dcb40242237.png))
+
 The website basically provides a brief intro to breast cancer. We also show some general statistics. 
 The **Let's Learn** page provides a cause analysis of the issue and bust some myths.
 The **Pink warriors** page showcases our brave survivors and their stories. We also have a _Join Our Community_  option to build on our community.
