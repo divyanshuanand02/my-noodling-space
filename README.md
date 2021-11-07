@@ -2,7 +2,7 @@
 **Theme** : Gamify
 Myntra is one of the best E-tail players to popularize online shopping in a huge market like India.
 The present interface of the app has a commonly used profile and cart system that has non-interactive style and elements. To make the process of checking your cart and Wishlist engaging, we here serve the idea of gamifying the platform to attract traffic on site . 
-![image](https://user-images.githubusercontent.com/65819611/140659633-689beeb7-17a5-4212-a779-e0281527ab48.png)
+
 
 ## What it does
 The website basically provides a brief intro to breast cancer. We also show some general statistics. 
