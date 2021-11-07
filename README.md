@@ -8,7 +8,8 @@ The present interface of the app has a commonly used profile and cart system tha
 ## SOLUTION: MY NOODLIN’ SPACE 
 
 
-A 3D room that helps user visualize 2d cart/wishlist section. The major features:
+A 3D room that helps user visualize 2d cart/wishlist section. The major features:
+
  **My Wardrobe** - A virtual cabinet to depict the cart items.
  
  **A TV** that slideshows the wishlisted items.
@@ -30,8 +31,9 @@ During this hackathon, we explored many technologies with which we were previous
 ## What's next for SheCan
 We aim at implementing features such as points earned according to the time spent and add further features similarly.
 ### **CONTRIBUTORS**
-    **TEAM KUCH BHI RAKHLO**
+    TEAM KUCH BHI RAKHLO
     - Divyanshu Anand
     - Aman Jindal
     - Pallavi Gupta
     - Muskan (Leader)
+  COLLEGE- NIT ROURKELA
