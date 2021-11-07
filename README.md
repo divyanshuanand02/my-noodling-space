@@ -1,21 +1,22 @@
-# my-noodling-space
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+## THEME/PROBLEM STATEMENT
+**Theme** : Gamify
+Myntra is one of the best E-tail players to popularize online shopping in a huge market like India.
+The present interface of the app has a commonly used profile and cart system that has non-interactive style and elements. To make the process of checking your cart and Wishlist engaging, we here serve the idea of gamifying the platform to attract traffic on site . 
+![image](https://user-images.githubusercontent.com/65819611/140659633-689beeb7-17a5-4212-a779-e0281527ab48.png)
 
+## What it does
+The website basically provides a brief intro to breast cancer. We also show some general statistics. 
+The **Let's Learn** page provides a cause analysis of the issue and bust some myths.
+The **Pink warriors** page showcases our brave survivors and their stories. We also have a _Join Our Community_  option to build on our community.
+Finally the **Emergency** page provides the helpline numbers and mails of various cancer organizations with an attached google maps portion.
 
-## Depends on project
-- If any
-## Setup
-`setup init`
-## Contributing
-`Contributions are welcome 🎉🎉`
-
-Please refer to the project's style and [contribution guidelines][contributing] for submitting patches and additions. In general, we follow the "fork-and-pull" Git workflow.
-
- 1. [Fork][fork] the repo on GitHub
- 2. **Clone** the project to your own machine
- 3. **Commit** changes to your own branch
- 4. **Push** your work back up to your fork
- 5. Submit a [Pull request][pr] so that we can review your changes
- 6. Grab a coffee ☕ and relax till we review your contribution.
-## Contact
-[![DISCORD](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/dmWzabVPDe) [![TWITTER](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/geptonofficial) [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/gepton) 
+## How we built it
+We created using responsive webpage  and made the web app user friendly. The user interface was created with HTML, and bootstrap and CSS.  Also, we tried to make our website very reactive (ex. changing card colour and size on hover) and focused on general aesthetic appeal, so that the user would be encouraged to continue navigating the site. We also embedded Google map for the benefit of the users.
+## Challenges we ran into
+We initially wished to learn about firebase and APIs , however since it is our first hackathon, we found it really difficult to implement. Nevertheless we are proud of what we have been able to build.
+## Accomplishments that we're proud of
+During this hackathon, we explored many technologies with which we were previously unfamiliar. None of us had used bootstrap, nor Google Maps. However, we persevered relentlessly and ended up implementing the tools in our project!
+## What we learned
+We were also able to create an interactive map element using the Google Map. For UI/UX, it was our first time using Bootstrap to assist with the styling of our website. Overall, it was an exhilarating weekend filled with knowledge and fun!
+## What's next for SheCan
+We aim at implementing APIs and add further features for the future.
