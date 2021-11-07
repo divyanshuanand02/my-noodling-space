@@ -1,5 +1,5 @@
 ## THEME/PROBLEM STATEMENT
-**Theme** : Gamify
+### **Theme** : Gamify
 
 Myntra is one of the best E-tail players to popularize online shopping in a huge market like India.
 The present interface of the app has a commonly used profile and cart system that has non-interactive style and elements. To make the process of checking your cart and Wishlist engaging, we here serve the idea of gamifying the platform to attract traffic on site . 
@@ -10,8 +10,11 @@ The present interface of the app has a commonly used profile and cart system tha
 
 A 3D room that helps user visualize 2d cart/wishlist section. The major features:
  **My Wardrobe** - A virtual cabinet to depict the cart items.
+ 
  **A TV** that slideshows the wishlisted items.
+ 
  **Surprise daily Mystery Boxes** with exciting offers and deals
+ 
  **Happiness Gul-luck** - how many points you’ve earned 
 
 
@@ -27,7 +30,7 @@ During this hackathon, we explored many technologies with which we were previous
 ## What's next for SheCan
 We aim at implementing features such as points earned according to the time spent and add further features similarly.
 ### **CONTRIBUTORS**
-    - TEAM KUCH BHI RAKHLO
+    **TEAM KUCH BHI RAKHLO**
     - Divyanshu Anand
     - Aman Jindal
     - Pallavi Gupta
