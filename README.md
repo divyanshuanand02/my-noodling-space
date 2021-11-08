@@ -28,7 +28,7 @@ We initially wished to learn about firebase and APIs , however since it is our f
 ## Accomplishments that we're proud of
 During this hackathon, we explored many technologies with which we were previously unfamiliar. None of us had used Unity or Blender earlier. However, we persevered relentlessly and ended up implementing the tools in our project!
 
-## What's next for SheCan
+## What's next for us
 We aim at implementing features such as points earned according to the time spent and add further features similarly.
 ### **CONTRIBUTORS**
     TEAM KUCH BHI RAKHLO
