@@ -16,7 +16,7 @@ A 3D room that helps user visualize 2d cart/wishlist section. The major features
  
  **Surprise daily Mystery Boxes** with exciting offers and deals
  
- **Happiness Gul-luck** - how many points you’ve earned 
+ **Happiness Gul-luck** which shows points you’ve earned 
 
 
 
