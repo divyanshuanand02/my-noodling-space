@@ -26,7 +26,7 @@ After proper planning and analysis, We created the 3D room using mainly Unity, B
 ## Challenges we ran into
 Since it is our first hackathon and we were new to this tech stack, we found it really difficult to implement in this short period of time. Nevertheless we are proud of what we have been able to build.
 ## Accomplishments that we're proud of
-During this hackathon, we explored many technologies with which we were previously unfamiliar. None of us had used Unity or Blender earlier. However, we persevered relentlessly and ended up implementing the tools in our project!
+During this hackathon, we explored many technologies with which we were previously unfamiliar. None of us had used Unity or Blender earlier. However, we persevered relentlessly and ended up implementing the tools in our project!!
 
 ## What's next for us
 We aim at implementing features such as points earned according to the time spent and add further features similarly.
