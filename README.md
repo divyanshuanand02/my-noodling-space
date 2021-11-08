@@ -10,13 +10,13 @@ The present interface of the app has a commonly used profile and cart system tha
 
 A 3D room that helps user visualize 2d cart/wishlist section. The major features:
 
- **My Wardrobe** - A virtual cabinet to depict the cart items.
+ **My Wardrobe** that depict the cart items.
  
  **A TV** that slideshows the wishlisted items.
  
  **Surprise daily Mystery Boxes** with exciting offers and deals
  
- **Happiness Gul-luck** - how many points you’ve earned 
+ **Happiness Gul-luck** which shows how many points you’ve earned 
 
 
 
